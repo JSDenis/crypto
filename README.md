@@ -9,7 +9,7 @@
 //2 terminal
  accounts
 
- web3.eth.personal.sign("679", '0x76460377E275B5c8Dfe9b1a0f9a9104b045F31e2')
+ web3.eth.personal.sign("7", '0x76460377E275B5c8Dfe9b1a0f9a9104b045F31e2')
 
  salary = await Salary.deployed()
 
